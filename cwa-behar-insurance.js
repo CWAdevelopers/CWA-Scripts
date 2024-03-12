@@ -1,4 +1,4 @@
-// proxy.js
+// cwa-behar-insurance.js
 document.addEventListener("DOMContentLoaded", function() {
   var script = document.createElement('script');
   script.src = 'https://app.aminos.ai/js/chat_plugin.js';
